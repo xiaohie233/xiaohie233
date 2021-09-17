@@ -1,16 +1,41 @@
-### Hi there 👋
+| 这个作业属于哪个课程   | [卓越工程师2021](https://edu.cnblogs.com/campus/gdgy/cse2021) |
+| ---------------------- | ------------------------------------------------------------ |
+| **这个作业要求在哪里** | [**作业链接**](https://edu.cnblogs.com/campus/gdgy/cse2021/homework/12253) |
+| **这个作业的目标**     | **介绍自己得同时熟悉一些工具得使用**                         |
 
-<!--
-**xiaohie233/xiaohie233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-------------------
 
-Here are some ideas to get you started:
+# 自我介绍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 个人信息
+
+​		我是[广东工业大学](https://www.gdut.edu.cn/)计算机的学生，名字叫做吴灿东。
+
+![广东工业大学](https://img2.baidu.com/it/u=3429855819,1465875342&fm=26&fmt=auto)
+
+​		今年 19 岁，喜欢打羽毛球，跑步，健身。大多数都是和运动有关，因为我认为身体是革命的本钱，更何况是在我们这个伤身体的行业。但这并不代表我喜欢外出，更多时候我更喜欢呆在宿舍里打代码，玩游戏，聊天。
+
+![程序员](https://img0.baidu.com/it/u=1348281602,3244076216&fm=253&fmt=auto&app=120&f=JPEG?w=640&h=425)
+
+​		即使是经常宅在宿舍的我也广结好友，在朋友需要我的时候主动帮助他们，在他们需要我的时候我也愿意主动伸出援手。正因为有了一些朋友的帮助，我才能度过一些难关，抓住一些机会。
+
+![握手](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.vjshi.com%2F2017-08-21%2F2f1c48980b9d144076f24c75a38a7d56%2F00003.jpg%3Fx-oss-process%3Dstyle%2Fwatermark&refer=http%3A%2F%2Fpic.vjshi.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1634467655&t=a6a2d45eb30d369556507c051fc2eeda)
+
+---------------------
+
+## 阅读《现代软件工程》的5个问题
+
+1. 如果团队中有人到 deadline 还没做完自己的任务，是让团队中的其他有能力完成的成员来接手，还是延期呢？
+2. 如果我有其他更重要的事去做，我可以把我的任务托付给其他人吗？
+
+---------------------------
+
+## 我想收获些什么？
+
+1. 团队合作经验，实战经验，项目经验。
+
+2. 认识更多志同道合的的朋友。
+
+3. 自主学习的能力和自律自强的意识。
+
+
